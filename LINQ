@@ -1,0 +1,6 @@
+#I was learning linq. I tried to compare 2 csv files using linq. One had names only, while the other is the full list of staffs in my company with names and account details.
+#I needed to get the names of some of the staffs and their account numbers from the whole list using LINQ, but i couldn't because the full list was not properly structured.
+# Some staff members had two names, while others had 3 names, i.e, First name, Last name, and middle name, and the names were disorganised in that positionally, some people's
+# last name appeared first.
+
+# So i need to take time to sort the names into first name, last name and middle name, before i can query or filter the data.
